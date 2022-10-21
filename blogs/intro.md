@@ -1,0 +1,3 @@
+# Single-folder workspaces
+
+You don't have to do anything for a folder to become a VS Code workspace other than open the folder with VS Code. Once a folder has been opened, VS Code will automatically keep track of things such as your open files and editor layout so the editor will be as you left it when you reopen that folder. You can also add other folder-specific configurations such as workspace-specific settings (versus global user settings), task definitions, and debugging launch files (see below in the workspace settings section).
